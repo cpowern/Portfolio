@@ -472,5 +472,9 @@ footer p {
   .strikethrough {
     text-decoration: line-through;
   }
-
+  
+  .left-aligned {
+    float: left; /* Bild linksbündig machen */
+    margin-right: 10px; /* Abstand zum Text auf der rechten Seite */
+  }
   
