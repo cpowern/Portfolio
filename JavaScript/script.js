@@ -5,7 +5,7 @@ function toggleMenu() {
     icon.classList.toggle("open");
   }
   
-  const titles = ["Software Developer", "Frontend Developer", "Backend Developer", "y"];
+  const titles = ["Software Developer", "Frontend Developer", "Backend Developer", "Student", ""];
   let currentTitleIndex = 0;
   let charIndex = 0;
   const typingSpeed = 150; // Typing speed in milliseconds
