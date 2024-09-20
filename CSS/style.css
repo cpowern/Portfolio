@@ -460,13 +460,13 @@ footer p {
     width: 100%;
     z-index: 1000;
     background-color: white;
-    padding: 10px 20px;
+    padding: 1px 20px;
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
     transition: top 0.3s; /* Übergang für das Ein- und Ausblenden */
   }
   
   body {
-    padding-top: 60px; /* Anpassen an die Höhe der Navigation */
+    padding-top: 90px; /* Anpassen an die Höhe der Navigation */
   }
 
   .strikethrough {

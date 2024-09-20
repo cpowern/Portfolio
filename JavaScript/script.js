@@ -52,7 +52,7 @@ function toggleMenu() {
 
     if (currentScrollPosition > lastScrollPosition) {
       // Runter scrollen
-      nav.style.top = '-60px'; // Versteckt den Header, passt die Höhe an
+      nav.style.top = '-120px'; // Versteckt den Header, passt die Höhe an
     } else {
       // Hoch scrollen
       nav.style.top = '0';
